@@ -1,7 +1,0 @@
-E:\Coding Projects\c#\Sulis\Electro-Fih\Publish\Electro-Fih.pdb
-E:\Coding Projects\c#\Sulis\Electro-Fih\Publish\D3DCompiler_47_cor3.dll
-E:\Coding Projects\c#\Sulis\Electro-Fih\Publish\PenImc_cor3.dll
-E:\Coding Projects\c#\Sulis\Electro-Fih\Publish\PresentationNative_cor3.dll
-E:\Coding Projects\c#\Sulis\Electro-Fih\Publish\vcruntime140_cor3.dll
-E:\Coding Projects\c#\Sulis\Electro-Fih\Publish\wpfgfx_cor3.dll
-E:\Coding Projects\c#\Sulis\Electro-Fih\Publish\Electro-Fih.exe
