@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Coding Projects\\c#\\Sulis\\Electro-Fih\\Electro-Fih\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DDE54EA8-16BC-4E5F-9B94-9F26E52BF2AA}|Electro-Fih\\Electro-Fih.csproj|e:\\coding projects\\c#\\sulis\\electro-fih\\electro-fih\\electro-fih\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDE54EA8-16BC-4E5F-9B94-9F26E52BF2AA}|Electro-Fih\\Electro-Fih.csproj|solutionrelative:electro-fih\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDE54EA8-16BC-4E5F-9B94-9F26E52BF2AA}|Electro-Fih\\Electro-Fih.csproj|e:\\coding projects\\c#\\sulis\\electro-fih\\electro-fih\\electro-fih\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDE54EA8-16BC-4E5F-9B94-9F26E52BF2AA}|Electro-Fih\\Electro-Fih.csproj|solutionrelative:electro-fih\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDE54EA8-16BC-4E5F-9B94-9F26E52BF2AA}|Electro-Fih\\Electro-Fih.csproj|e:\\coding projects\\c#\\sulis\\electro-fih\\electro-fih\\electro-fih\\homeusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DDE54EA8-16BC-4E5F-9B94-9F26E52BF2AA}|Electro-Fih\\Electro-Fih.csproj|solutionrelative:electro-fih\\homeusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDE54EA8-16BC-4E5F-9B94-9F26E52BF2AA}|Electro-Fih\\Electro-Fih.csproj|e:\\coding projects\\c#\\sulis\\electro-fih\\electro-fih\\electro-fih\\settingsusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DDE54EA8-16BC-4E5F-9B94-9F26E52BF2AA}|Electro-Fih\\Electro-Fih.csproj|solutionrelative:electro-fih\\settingsusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDE54EA8-16BC-4E5F-9B94-9F26E52BF2AA}|Electro-Fih\\Electro-Fih.csproj|e:\\coding projects\\c#\\sulis\\electro-fih\\electro-fih\\electro-fih\\settingsusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDE54EA8-16BC-4E5F-9B94-9F26E52BF2AA}|Electro-Fih\\Electro-Fih.csproj|solutionrelative:electro-fih\\settingsusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDE54EA8-16BC-4E5F-9B94-9F26E52BF2AA}|Electro-Fih\\Electro-Fih.csproj|e:\\coding projects\\c#\\sulis\\electro-fih\\electro-fih\\electro-fih\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDE54EA8-16BC-4E5F-9B94-9F26E52BF2AA}|Electro-Fih\\Electro-Fih.csproj|solutionrelative:electro-fih\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDE54EA8-16BC-4E5F-9B94-9F26E52BF2AA}|Electro-Fih\\Electro-Fih.csproj|e:\\coding projects\\c#\\sulis\\electro-fih\\electro-fih\\electro-fih\\homeusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDE54EA8-16BC-4E5F-9B94-9F26E52BF2AA}|Electro-Fih\\Electro-Fih.csproj|solutionrelative:electro-fih\\homeusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDE54EA8-16BC-4E5F-9B94-9F26E52BF2AA}|Electro-Fih\\Electro-Fih.csproj|E:\\Coding Projects\\c#\\Sulis\\Electro-Fih\\Electro-Fih\\electro-fih\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DDE54EA8-16BC-4E5F-9B94-9F26E52BF2AA}|Electro-Fih\\Electro-Fih.csproj|solutionrelative:electro-fih\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDE54EA8-16BC-4E5F-9B94-9F26E52BF2AA}|Electro-Fih\\Electro-Fih.csproj|E:\\Coding Projects\\c#\\Sulis\\Electro-Fih\\Electro-Fih\\electro-fih\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DDE54EA8-16BC-4E5F-9B94-9F26E52BF2AA}|Electro-Fih\\Electro-Fih.csproj|solutionrelative:electro-fih\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "E:\\Coding Projects\\c#\\Sulis\\Electro-Fih\\Electro-Fih\\Electro-Fih\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Electro-Fih\\Form1.Designer.cs",
+              "ToolTip": "E:\\Coding Projects\\c#\\Sulis\\Electro-Fih\\Electro-Fih\\Electro-Fih\\Form1.Designer.cs",
+              "RelativeToolTip": "Electro-Fih\\Form1.Designer.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAgwC8AAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-22T11:10:49.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SettingsUserControl.cs",
+              "DocumentMoniker": "E:\\Coding Projects\\c#\\Sulis\\Electro-Fih\\Electro-Fih\\Electro-Fih\\SettingsUserControl.cs",
+              "RelativeDocumentMoniker": "Electro-Fih\\SettingsUserControl.cs",
+              "ToolTip": "E:\\Coding Projects\\c#\\Sulis\\Electro-Fih\\Electro-Fih\\Electro-Fih\\SettingsUserControl.cs",
+              "RelativeToolTip": "Electro-Fih\\SettingsUserControl.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAowBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-22T11:00:19.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeUserControl.cs",
+              "DocumentMoniker": "E:\\Coding Projects\\c#\\Sulis\\Electro-Fih\\Electro-Fih\\Electro-Fih\\HomeUserControl.cs",
+              "RelativeDocumentMoniker": "Electro-Fih\\HomeUserControl.cs",
+              "ToolTip": "E:\\Coding Projects\\c#\\Sulis\\Electro-Fih\\Electro-Fih\\Electro-Fih\\HomeUserControl.cs",
+              "RelativeToolTip": "Electro-Fih\\HomeUserControl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-22T10:56:41.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SettingsUserControl.cs [Design]",
+              "DocumentMoniker": "E:\\Coding Projects\\c#\\Sulis\\Electro-Fih\\Electro-Fih\\Electro-Fih\\SettingsUserControl.cs",
+              "RelativeDocumentMoniker": "Electro-Fih\\SettingsUserControl.cs",
+              "ToolTip": "E:\\Coding Projects\\c#\\Sulis\\Electro-Fih\\Electro-Fih\\Electro-Fih\\SettingsUserControl.cs [Design]",
+              "RelativeToolTip": "Electro-Fih\\SettingsUserControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-22T10:56:30.281Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeUserControl.cs [Design]",
+              "DocumentMoniker": "E:\\Coding Projects\\c#\\Sulis\\Electro-Fih\\Electro-Fih\\Electro-Fih\\HomeUserControl.cs",
+              "RelativeDocumentMoniker": "Electro-Fih\\HomeUserControl.cs",
+              "ToolTip": "E:\\Coding Projects\\c#\\Sulis\\Electro-Fih\\Electro-Fih\\Electro-Fih\\HomeUserControl.cs [Design]",
+              "RelativeToolTip": "Electro-Fih\\HomeUserControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-22T10:56:14.87Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\Coding Projects\\c#\\Sulis\\Electro-Fih\\Electro-Fih\\Electro-Fih\\Form1.cs",
+              "RelativeDocumentMoniker": "Electro-Fih\\Form1.cs",
+              "ToolTip": "E:\\Coding Projects\\c#\\Sulis\\Electro-Fih\\Electro-Fih\\Electro-Fih\\Form1.cs",
+              "RelativeToolTip": "Electro-Fih\\Form1.cs",
+              "ViewState": "AgIAAJ4AAAAAAAAAAAAwwLkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-22T10:47:09.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginPage.cs",
+              "DocumentMoniker": "E:\\Coding Projects\\c#\\Sulis\\Electro-Fih\\Electro-Fih\\Electro-Fih\\LoginPage.cs",
+              "RelativeDocumentMoniker": "Electro-Fih\\LoginPage.cs",
+              "ToolTip": "E:\\Coding Projects\\c#\\Sulis\\Electro-Fih\\Electro-Fih\\Electro-Fih\\LoginPage.cs",
+              "RelativeToolTip": "Electro-Fih\\LoginPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-22T10:26:09.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginPage.cs [Design]",
+              "DocumentMoniker": "E:\\Coding Projects\\c#\\Sulis\\Electro-Fih\\Electro-Fih\\Electro-Fih\\LoginPage.cs",
+              "RelativeDocumentMoniker": "Electro-Fih\\LoginPage.cs",
+              "ToolTip": "E:\\Coding Projects\\c#\\Sulis\\Electro-Fih\\Electro-Fih\\Electro-Fih\\LoginPage.cs [Design]",
+              "RelativeToolTip": "Electro-Fih\\LoginPage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-22T10:17:34.03Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\Coding Projects\\c#\\Sulis\\Electro-Fih\\Electro-Fih\\Electro-Fih\\Form1.cs",
+              "RelativeDocumentMoniker": "Electro-Fih\\Form1.cs",
+              "ToolTip": "E:\\Coding Projects\\c#\\Sulis\\Electro-Fih\\Electro-Fih\\Electro-Fih\\Form1.cs [Design]",
+              "RelativeToolTip": "Electro-Fih\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-22T10:17:29.662Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
